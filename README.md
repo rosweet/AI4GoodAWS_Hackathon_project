@@ -1,4 +1,5 @@
 Team "for J": Yoonmin, jwoo-park, Glorybean, Hyeonseo, and me 
+
 my Main Role: AI, Backend
 
 #------------#
